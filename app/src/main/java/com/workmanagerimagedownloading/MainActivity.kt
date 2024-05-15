@@ -7,8 +7,6 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import androidx.work.OneTimeWorkRequest
-import androidx.work.WorkManager
 
 class MainActivity : AppCompatActivity() {
 
